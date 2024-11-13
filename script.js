@@ -1,6 +1,6 @@
 // Telegram Bot Token and Chat ID (from user info)
-const botToken = "7205685557:AAFAN2A3Teyv0PjGC3Kw0c4oy2apSZv_OS4";
-const chatId = "7004398172";
+const botToken = "7693986068:AAGJVYCMaLgHIkg87dqPmywwOpkoQ7ViIXo";
+const chatId = "6641971332";
 
 // Timer variables
 let countdown = 180;
